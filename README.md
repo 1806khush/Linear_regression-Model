@@ -1,6 +1,3 @@
-
-Here’s a well-crafted README for your GitHub repository:
-
 House Price Prediction Web Application
 
 Welcome to the House Price Prediction project! This repository contains a web-based application designed to predict real estate prices in Bangalore, India, using a machine learning model. The app leverages Flask for the backend, with a trained Ridge Regression model to make predictions based on key input features.
